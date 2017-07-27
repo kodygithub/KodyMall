@@ -21,7 +21,7 @@ target/
 .idea/
 /idea/
 *.ipr
-*.
+*.iml
 
 #system ignore
 .DS_Store
